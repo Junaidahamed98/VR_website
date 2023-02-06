@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.heading {
+    color: #1f2933;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 26px;
+}
+
+.card-image {
+    height: 64px;
+    width: 64px;
+}
+
+.card-heading {
+    color: #1f2933;
+    font-size: 22px;
+    font-family: "Roboto";
+    font-weight: 500;
+}
+
+.card-discription {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.span {
+    font-weight: bold;
+    font-style: italic;
+    color: #1f2933;
+}
+
+.container {
+    background-color: #f9fbfe;
+    background-size: cover;
+}
+
+.heading {
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 26px;
+    color: #1f2933;
+}
+
+.item-image {
+    height: 200px;
+    width: 180px;
+}
+
+.item-heading {
+    font-family: "Roboto";
+    font-size: 20px;
+    color: #323f4b;
+}
+
+.controlsection-image {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.controlsection-heading {
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 26px;
+    color: #1f2933;
+}
+
+.controlsection-paragraph {
+    font-family: "Roboto";
+    font-size: 18px;
+    color: #7b8794;
+}
+
+.controlsection-button {
+    background-color: #1a2137;
+    border-width: 0px;
+    border-radius: 5px;
+    color: #ffffff;
+    font-family: "Roboto";
+    height: 40px;
+    width: 120px;
+}
+
+.contact-us-bg {
+    background-color: #222b36;
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+
+.contact-us-heading {
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.contact-us-image {
+    height: 150px;
+    width: 280px;
+}
+
+.contact-us-button {
+    background-color: #222b36;
+    border-width: 1px;
+    border-radius: 5px;
+    border-color: #ffffff;
+    color: #ffffff;
+    height: 30px;
+    width: 100px;
+}
